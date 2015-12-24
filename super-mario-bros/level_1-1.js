@@ -23,6 +23,13 @@ window._world = {
       "state": "idle",
       "animationIndex": 0,
       "x": 480,
+      "y": 320
+    },
+    {
+      "name": "ground",
+      "state": "idle",
+      "animationIndex": 0,
+      "x": 480,
       "y": 512
     },
     {
