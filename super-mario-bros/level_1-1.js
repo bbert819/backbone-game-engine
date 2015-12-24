@@ -22,8 +22,8 @@ window._world = {
       "name": "ground",
       "state": "idle",
       "animationIndex": 0,
-      "x": 480,
-      "y": 320
+      "x": 0,
+      "y": 0
     },
     {
       "name": "ground",
